@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadAhmadi14
 - 👀 I’m interested in Data including Financial Industry
-- 🌱 I’m currently learning Python and Data Structure
+- 🌱 I’m currently learning Python Ecosystem and Data Structure
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me on github or email : ahmad@ahmadi.work
 
